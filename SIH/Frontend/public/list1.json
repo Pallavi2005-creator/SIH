@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "name": "Class 1",
+        "title": "jjdhuibdyuabqwbwdbb",
+        
+        
+        "image": "/class1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Class 2",
+        "title": "jjdhuibdyuabqwbwdbb",
+        
+        "image": "/class2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Class 3",
+        "title": "jjdhuibdyuabqwbwdbb",
+        
+        "image": "/class3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Class 4",
+        "title": "jjdhuibdyuabqwbwdbb",
+        
+        "image": "/class4.jpg"
+    }
+]
